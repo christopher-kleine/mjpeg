@@ -12,7 +12,7 @@ import (
 	"path/filepath"
 	"sort"
 
-	"github.com/icza/mjpeg"
+	"github.com/christopher-kleine/mjpeg"
 )
 
 func main() {
